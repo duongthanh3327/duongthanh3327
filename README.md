@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning React-Native Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying lectronic engineering, computer programming and Mathematics.
+- 🎓 &nbsp; Studying electronic engineering, computer programming and Mathematics.
 - 💼 &nbsp; Software developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
